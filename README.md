@@ -36,3 +36,8 @@ Enhanced version of the basic multicast receiver.
 
     python auto-message-sender.py
 
+
+## Receiver Output 
+
+![Receiver Output](https://github.com/ayushkale1909/IP-Multicast/blob/main/Multicast_Receiver-test-output%20.png)
+
